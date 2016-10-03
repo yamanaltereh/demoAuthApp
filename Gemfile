@@ -32,7 +32,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'dotenv-rails'
 
-gem "omniauth-google-oauth2"
+gem 'omniauth-twitter'
+gem 'omniauth-google-oauth2'
 gem 'omniauth-facebook'
 gem 'omniauth-github'
 
