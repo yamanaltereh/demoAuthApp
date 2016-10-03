@@ -1,4 +1,5 @@
-# README
+# demoAuthApp
+demo app by Rails 5 for authentication by multiple platforms
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
